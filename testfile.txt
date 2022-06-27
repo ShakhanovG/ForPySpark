@@ -1,0 +1,1 @@
+I've added new line from docker container using git extension of a Jupyter notebook and now try to push the changes to the remote repository. TNX!
